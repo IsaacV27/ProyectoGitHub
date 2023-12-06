@@ -12,3 +12,4 @@ public class NewClass {
     private String name;
     private String direccion;
 }
+//Isaac estuvo aca cambiando codigo
